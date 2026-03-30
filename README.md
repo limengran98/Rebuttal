@@ -1,6 +1,5 @@
-## ICML 2026 Rebuttal: Supplementary Experiments
+## ICML 2026 Rebuttal Supplement
 
+[Open PDF](./icml2026_rebuttal_supplement.pdf)
 
-Reproduction:
-```bash
-python make_rebuttal_figure.py
+![Supplement Figure](./icml2026_rebuttal_supplement.png)
